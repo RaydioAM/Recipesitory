@@ -3,13 +3,15 @@ site_name: The Recipesitory
 theme:
   name: material
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
