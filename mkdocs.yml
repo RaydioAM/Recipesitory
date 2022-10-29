@@ -32,4 +32,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Breakfast:
-    - Gordon Ramsay Scrambled Eggs: scrambled-eggs
+    - Gordon Ramsay Scrambled Eggs: recipes/scrambled-eggs
