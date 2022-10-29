@@ -15,13 +15,28 @@
 | As needed |	White wine |
 | As needed	| Parsley |
 
+## Prep
+- [ ] De-case the spicy sausages.
+- [ ] Slice red onion.
+- [ ] Slice red pepper with larger slices for texture.
+- [ ] Peel and chop 2 cloves of garlic.
+- [ ] Pull the de-cased sausage apart into chunks.
+- [ ] Slice green onions
+- [ ] Dice tomatoes
+- [ ] Chop parsley
+
 ## Cook
-De-case the spicy sausages. Slice red onion. Add a tablespoon of olive oil into the pan on medium heat. Put sliced red onions into the oil, cook for 5-6 min to caramelize while stirring occasionally. Slice red pepper with larger slices for texture. Put sliced pepper in with onions. Peel and chop 2 cloves of garlic and put into pan.
-
-Turn up heat to max before putting sausage in to avoid boiling peppers and onions. Make a well in the center for the sausage. Pull the de-cased sausage apart into chunks and add to the pan. Stir as soon as you get sausage in. Stir until sausages are lightly browned.
-
-Add a teaspoon of paprika for smoky flavor. Sear the rice by adding rice and sauté for 30 seconds. Add white wine, enough to deglaze the pan (there shouldn't be standing wine in the bottom). Add stock (2x the amount of rice). Turn gas down and simmer for 12-15 minutes.
-
-To finish, slice green onions, dice tomatoes, and chop parsley. Add all to the pan and turn the heat off to avoid overcooking.
-
-Stir and serve.
+- [ ] Add a tablespoon of olive oil into the pan on medium heat.
+- [ ] Put sliced red onions into the oil, cook for 5-6 min to caramelize while stirring occasionally.  
+- [ ] Put sliced pepper and chopped garlic in with the onions.
+- [ ] Turn up heat to max before putting sausage in to avoid boiling peppers and onions. Make a well in the center for the sausage. 
+- [ ] Add the sausage to the pan in the well. Stir as soon as you put the sausage in.
+- [ ] Stir until sausages are lightly browned.
+- [ ] Add a teaspoon of paprika for smoky flavor. 
+- [ ] Sear the rice by adding rice and sauté for 30 seconds to a minute. 
+- [ ] Add white wine, enough to deglaze the pan (there shouldn't be standing wine in the bottom). 
+- [ ] Add stock (2x the amount of rice).
+- [ ] Turn gas down and simmer for 12-15 minutes.
+- [ ] Add the green onions, tomatoes, and parsley to the pan.
+- [ ] Turn the heat off to avoid overcooking.
+- [ ] Stir and serve!
