@@ -1,5 +1,9 @@
 ## How to edit this site
 
+### Documentation links
+- [Setup](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/)
+- [Reference](https://squidfunk.github.io/mkdocs-material/reference/)
+
 ### Commands
 - `mkdocs new [dir-name]` - Create a new project.
 - `mkdocs serve` - Start the live-reloading docs server.
