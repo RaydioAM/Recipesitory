@@ -46,4 +46,8 @@ nav:
   - Home: index.md
   - Breakfast:
     - Gordon Ramsay Scrambled Eggs: recipes/scrambled-eggs.md
+  - Dinner:
+    - French Onion Soup: recipes/french-onion-soup.md
+    - Shepherd's Pie: recipes/shepherds-pie.md
+    - Spicy Sausage and Rice: recipes/spicy-sausage-rice.md
   - Editing Guide: editing-guide.md
