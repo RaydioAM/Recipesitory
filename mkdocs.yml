@@ -3,9 +3,11 @@ site_name: The Recipesitory
 theme:
   name: material
   features:
+    - navigation.instant
     - navigation.tracking
-    - toc.integrate
     - navigation.top
+    - toc.integrate
+    - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -24,12 +26,21 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - def_list
+  - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.betterem
 
 # Page tree
 nav:
   - Home: index.md
   - Breakfast:
-    - Gordon Ramsay Scrambled Eggs: recipes/scrambled-eggs
+    - Gordon Ramsay Scrambled Eggs: recipes/scrambled-eggs.md
+  - Test Section:
+    - Test Page: test-section/test.md
+  - Editing Guide: guide/editing-guide.md
