@@ -1,8 +1,7 @@
-name: mkdocs-ci 
+name: build
 on:
   push:
     branches:
-      - master 
       - main
 jobs:
   deploy:
