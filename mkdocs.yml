@@ -35,6 +35,7 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: true
   - pymdownx.betterem
+  - pymdownx.superfences
 
 # Page tree
 nav:
@@ -43,4 +44,4 @@ nav:
     - Gordon Ramsay Scrambled Eggs: recipes/scrambled-eggs.md
   - Test Section:
     - Test Page: test-section/test.md
-  - Editing Guide: guide/editing-guide.md
+  - Editing Guide: editing-guide.md
