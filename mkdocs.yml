@@ -2,7 +2,6 @@ site_name: The Recipesitory
 repo_name: RaydioAM/recipesitory
 repo_url: https://github.com/RaydioAM/recipesitory
 
-
 theme:
   name: material
   features:
@@ -29,6 +28,7 @@ theme:
     repo: fontawesome/brands/github
 
 markdown_extensions:
+  - tables
   - attr_list
   - def_list
   - admonition
