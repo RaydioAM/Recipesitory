@@ -46,4 +46,6 @@ nav:
   - Home: index.md
   - Breakfast:
     - Gordon Ramsay Scrambled Eggs: recipes/scrambled-eggs.md
+  - Dinner:
+    - Shepherd's Pie: recipes/shepherds-pie.md
   - Editing Guide: editing-guide.md
