@@ -1,4 +1,7 @@
 site_name: The Recipesitory
+repo_name: RaydioAM/recipesitory
+repo_url: https://github.com/RaydioAM/recipesitory
+
 
 theme:
   name: material
