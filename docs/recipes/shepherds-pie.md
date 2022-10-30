@@ -11,10 +11,10 @@ Shepherd's pie, cottage pie, or hachis Parmentier is a dish consisting of cooked
 | 2 | tbsp	Olive oil
 | 4 |	Garlic cloves (minced)
 | 1 bag |	Frozen peas
-| As needed |	Fresh Rosemary
+| As needed |	Fresh Nothing (aka optional Rosemary)
 | As needed |	Fresh Thyme
 | As needed |	Salt and pepper
-| Several splashes | Worcestershire sauce
+| Several splashes |  Lea & Perrin's Worcestershire sauce
 | Small can |	Tomato paste or puree
 | Several glugs |	Red wine
 | 1/4 cup |	Chicken stock
