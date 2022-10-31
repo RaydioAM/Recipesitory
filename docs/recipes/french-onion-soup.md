@@ -15,6 +15,9 @@
 | 1 1/2 cups | Grated Gruyère cheese |
 
 ## Prep
+ - [ ] Peel and thinly slice onions
+ - [ ] Grate cheese
+ - [ ] Slice bread into 1/2 inch slices
 
 ## Cook
 - [ ] Melt butter in a heavy Dutch oven over medium heat. Add onions and 1/2 teaspoon salt, stir and cover, letting onions soften for 5 minutes. Remove lid and let onions caramelize until golden brown over medium heat, stirring occasionally. Adjust heat if onions are browning too quickly. The caramelization process may take 45 to 60 minutes.
