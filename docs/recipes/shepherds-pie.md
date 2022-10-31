@@ -5,19 +5,19 @@ Shepherd's pie, cottage pie, or hachis Parmentier is a dish consisting of cooked
 ### Filling
 | Quantity | Ingredient |
 | --- | --- |
-| 1.5 lbs |	Ground lamb or beef
-| 1 |	Large carrot (grated)
-| 1 |	Large onion (grated)
-| 2 | tbsp	Olive oil
-| 4 |	Garlic cloves (minced)
-| 1 bag |	Frozen peas
-| As needed |	Fresh Rosemary
-| As needed |	Fresh Thyme
-| As needed |	Salt and pepper
-| Several splashes | Worcestershire sauce
-| Small can |	Tomato paste or puree
-| Several glugs |	Red wine
-| 1/4 cup |	Chicken stock
+| 1.5 lbs |	Ground lamb or beef |
+| 1 | Large carrot (grated) |
+| 1 | Large onion (grated) |
+| 2 | tbsp	Olive oil |
+| 4 | Garlic cloves (minced) |
+| 1 bag | Frozen peas |
+| As needed | Fresh Nothing (aka optional Rosemary) |
+| As needed | Fresh Thyme |
+| As needed | Salt and pepper |
+| Several splashes |  Lea & Perrin's Worcestershire sauce |
+| Small can | Tomato paste or puree |
+| Several glugs | Red wine |
+| 1/4 cup |	Chicken stock |
 
 ### Mashed Potatoes
 | Quantity | Ingredient |
@@ -25,7 +25,7 @@ Shepherd's pie, cottage pie, or hachis Parmentier is a dish consisting of cooked
 | 1.5 lbs |	Golden potatoes |
 | 1/4 cup |	Heavy cream |
 | 3 1/2 tbsp. |	Butter |
-| As needed |	Salt and pepper |
+| As needed | Salt and pepper |
 | 2	| Egg yolks |
 | 1/4-1/2 cup |	Parmesan cheese |
 
