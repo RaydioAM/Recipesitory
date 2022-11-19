@@ -14,6 +14,8 @@
 | As needed | Freshly ground black pepper |
 
 ### Red Wine Sauce
+| Quantity | Ingredient |
+| --- | --- |
 | 2 tbsp | Olive oil |
 | 200g  | Beef trimmings (ask the butcher to reserve these when trimming the fillet) |
 | 4 | Large shallots, peeled and sliced |
