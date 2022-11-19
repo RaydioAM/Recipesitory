@@ -1,8 +1,3 @@
-# Welcome to The Recipesitory
+# The Recipesitory
 
-This is the repository for our favorite and family recipes!
-
-<figure markdown>
-  ![YUM](./assets/images/yum.png)
-  <figcaption></figcaption>
-</figure>
+This is the repository for our favorite family and found recipes!
