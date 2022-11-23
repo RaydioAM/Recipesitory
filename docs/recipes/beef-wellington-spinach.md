@@ -1,7 +1,9 @@
 # WORK IN PROGRESS
+
 # Beef Wellington with Spinach
 
 ## Ingredients
+
 | Quantity | Ingredient |
 | --- | --- |
 | 2 | 400g beef fillets/tenderloins |
@@ -15,6 +17,7 @@
 | As needed | Freshly ground black pepper |
 
 ### Red Wine Sauce
+
 | Quantity | Ingredient |
 | --- | --- |
 | 2 tbsp | Olive oil |
