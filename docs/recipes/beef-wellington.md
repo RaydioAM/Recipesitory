@@ -42,8 +42,8 @@
 - [ ] Season the beef fillets, then place them on top of the mushroom-covered ham. Using the cling film, roll the Parma ham over the beef, then roll and tie the cling film to get a nice, evenly thick log. Repeat this step with the other beef fillet, then chill for at least 30 minutes.
 - [ ] Brush the pastry with the egg wash. Remove the cling film from the beef, then wrap the pastry around each ham-wrapped fillet. Trim the pastry and brush all over with the egg wash. Cover with cling film and chill for at least 30 minutes. Continue to the red wine sauce while the beef chills.
 
-!!! warning "Warning"
-    Preheat the oven while preparing the red wine sauce.
+> [!WARNING]
+> Preheat the oven while preparing the red wine sauce.
 
 ### Preparing the Red Wine Sauce
 - [ ] Heat the oil in a large pan, then fry the beef trimmings for a few minutes until browned on all sides. 
